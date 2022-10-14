@@ -1,0 +1,9 @@
+hr {
+	display: block;
+	min-width: 300px;
+}
+
+div.jumbotron {
+	padding-top: 20vh;
+	color: #fff;
+}

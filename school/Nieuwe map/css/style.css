@@ -1,0 +1,15 @@
+hr {
+	display: block;
+	min-width: 300px;
+}
+
+div.jumbotron {
+	padding-top: 20vh;
+	color: #fff;
+	height: 100vh;
+	background-image: url("../img/jumbotron-1.jpg");
+	background-size: cover;
+}
+h1,h2,h3{
+font-family: "Times New Roman", Times, serif;
+}
